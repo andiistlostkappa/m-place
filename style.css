@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+#top {
+    text-align: center;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+}
+#top a{
+    
+    background-color: white;
+    font-size: 15px;
+    color: rgb(42, 10, 129);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+#top *{
+    margin: 10px;
+    
+}
+
+#top img{
+    width: 200px;
+}
+
+#main {
+    margin-left: 5%;
+    margin-right: 5%;
+    
+
+}
+
+#main #info h1 {
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#main #info *{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#main #info p{
+    border-radius: 0px 0px 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#main #users h1 {
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#main #users *{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#main #users p{
+    border-radius: 0px 0px 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+
+#main #rules h1 {
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#main #rules *{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#main #rules p{
+    border-radius: 0px 0px 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+
+#main #anmeldung iframe{
+    margin-top: 60px;
+    background-color: rgb(250, 250, 250);
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+#screenshots img{
+    margin-top: 50px;
+    width: 80%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    
+}
+#screenshots{
+    margin-top: 60px;
+    text-align: center;
+    background-color: rgb(34, 34, 34);
+    padding-bottom: 100px;
+}
+#map{
+    text-align: center;
+    
+}
+#map img{
+    margin-top: 50px;
+    background-color: rgb(58, 58, 58);
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
